@@ -1,0 +1,17 @@
+[
+    {
+        "name":"John Doe",
+        "position":"Fullstack Developer",
+        "salary":50000
+    },
+    {
+        "name":"Sam Smith",
+        "position":"Android Developer",
+        "salary":46000
+    },
+    {
+        "name":"Mike Starks",
+        "position":"Software Engineer",
+        "salary":48000
+    }
+]
